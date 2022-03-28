@@ -1,5 +1,5 @@
 /*
-  Question 2
+  Question #2
 
   Write a function that, when provided the first node of a singly linked list, will sort the list by its values from smallest to largest. Do not use any built-in language sorting methods (e.g. sort in ruby)
 

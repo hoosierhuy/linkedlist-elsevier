@@ -1,5 +1,5 @@
 /*
-  Question 1
+  Question #1
 
   Write a function that takes two arguments. The first node from a singly linked list as the first argument and any node in the list as a second argument.  The function should delete the second argument (node) from the list.
 
